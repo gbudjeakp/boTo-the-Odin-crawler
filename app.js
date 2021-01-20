@@ -20,6 +20,7 @@ async function scrapeOdin () {
     })
   })
   console.log('Scrapping complete')
+  console.log(data)
 }
 
 scrapeOdin()
