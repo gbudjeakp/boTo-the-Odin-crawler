@@ -1,0 +1,16 @@
+{
+  "name": "boto",
+  "version": "1.0.0",
+  "description": "A simple bot crawler ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Gbudje",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "nodemon": "^2.0.7"
+  }
+}
